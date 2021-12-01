@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gabriel.dacostadorea
+- 👀 I’m interested in databases and web apps.
+- 🌱 I’m currently learning the basics of programming!
+- 💞️ I’m looking to collaborate on everything i can.
+- 📫 How to reach me: gabrieldorea13@gmail.com or @gabriel.dacostadorea on instagram
