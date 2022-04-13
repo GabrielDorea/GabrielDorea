@@ -6,6 +6,8 @@ Estou disposto a ajudar em projetos e onde mais eu for útil!
 
 ## Minhas tecnologias:
 
+Linux (Parrot OS, Debian 10, Ubuntu)
+
 Python
 
 Django
